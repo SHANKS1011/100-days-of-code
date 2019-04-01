@@ -9,3 +9,7 @@ Solved a question in chodchef
 
 ### R1D2
 another question solved(codechef)
+
+### R1D3
+5 codechef questions solved(codechef)
+(finally getting comfortable..)
