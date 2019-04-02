@@ -13,3 +13,6 @@ another question solved(codechef)
 ### R1D3
 5 codechef questions solved(codechef)
 (finally getting comfortable..)
+
+### R1D4
+2 coechef question solved..
