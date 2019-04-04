@@ -19,3 +19,6 @@ another question solved(codechef)
 
 ### R1D5
 another question solved..
+
+### R1D6
+2 questions solved
