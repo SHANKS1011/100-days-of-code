@@ -13,3 +13,4 @@
 ### Day 5:{3/04/2019}: [ my solution ](https://github.com/SHANKS1011/Codechef-solutions/blob/master/First%20and%20Last)
 
 ### Day 6:{4/04/2019}:[my solution](https://github.com/SHANKS1011/Codechef-solutions/blob/master/2%20nos)
+    [my solution](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Valid%20Triangle)
