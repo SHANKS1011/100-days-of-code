@@ -17,3 +17,5 @@
 
 ### Day 7:{5/04/2019}:[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/servant)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Reactangle)
+
+### Day 8:{6/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/PLAYPIAN)
