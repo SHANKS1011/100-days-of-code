@@ -19,3 +19,7 @@
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Reactangle)
 
 ### Day 8:{6/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/PLAYPIAN)
+Attempted codejam
+
+### Day 9:{7/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/DIFFSUM)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/FLOW010)
