@@ -28,3 +28,7 @@ another question solved..
 
 ### R1D8
 question solved
+codejam attempted
+
+### R1D9
+2 questions solved
