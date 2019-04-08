@@ -32,3 +32,6 @@ codejam attempted
 
 ### R1D9
 2 questions solved
+
+### R1D10
+2 questions solved
