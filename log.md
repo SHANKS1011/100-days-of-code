@@ -23,3 +23,6 @@ Attempted codejam
 
 ### Day 9:{7/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/DIFFSUM)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/FLOW010)
+
+### Day 10:{8/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/ATM%20Machine)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/VOWELTB)
