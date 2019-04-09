@@ -26,3 +26,6 @@ Attempted codejam
 
 ### Day 10:{8/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/ATM%20Machine)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/VOWELTB)
+
+### Day 11:{9/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/NOTINCOM)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Mahasena)
