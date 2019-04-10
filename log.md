@@ -29,3 +29,6 @@ Attempted codejam
 
 ### Day 11:{9/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/NOTINCOM)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Mahasena)
+
+### Day 12:{10/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Average%20Number)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Gross%20Salary)
