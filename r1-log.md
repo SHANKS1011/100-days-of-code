@@ -38,3 +38,6 @@ codejam attempted
 
 ### R1D11
 2 questions solved
+
+### R1D12
+2 questions solved
