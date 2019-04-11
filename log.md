@@ -35,3 +35,6 @@ Attempted codejam
 
 ### Day 13:{11/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/The%20Block%20Game)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Sum%20of%20Digits)
+
+### Day 14:{12/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/ATM)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Reverse%20The%20Number)
