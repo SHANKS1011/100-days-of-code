@@ -32,3 +32,6 @@ Attempted codejam
 
 ### Day 12:{10/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Average%20Number)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Gross%20Salary)
+
+### Day 13:{11/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/The%20Block%20Game)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Sum%20of%20Digits)
