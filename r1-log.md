@@ -44,3 +44,6 @@ codejam attempted
 
 ### R1D13
 2 question solved
+
+### R1D14
+2 questions solved
