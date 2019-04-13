@@ -38,3 +38,6 @@ Attempted codejam
 
 ### Day 14:{12/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/ATM)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Reverse%20The%20Number)
+
+### Day 15:{13/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Difficult%20Contests)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Friends)
