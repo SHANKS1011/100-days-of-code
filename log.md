@@ -41,3 +41,6 @@ Attempted codejam
 
 ### Day 15:{13/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Difficult%20Contests)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Friends)
+
+### Day 16:{14/04/2109}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Smallest%20Numbers%20of%20Notes)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Program%20Your%20Own%20CALCULATOR)
