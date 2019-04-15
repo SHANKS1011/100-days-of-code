@@ -53,3 +53,6 @@ codejam attempted
 
 ### R1D16
 2 questions solved
+
+### R1D17
+2 questions solved
