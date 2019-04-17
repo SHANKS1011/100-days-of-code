@@ -49,3 +49,5 @@ Attempted codejam
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Uniform%20Strings)
 
 ### Day 18:{16/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Cook-Off)
+
+### Day 19:{17/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Small%20factorials)
