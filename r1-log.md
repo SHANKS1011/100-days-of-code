@@ -59,3 +59,6 @@ codejam attempted
 
 ### R1D18
 2 questions solved
+
+### R1D19
+only one question solved
