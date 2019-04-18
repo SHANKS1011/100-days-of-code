@@ -62,3 +62,6 @@ codejam attempted
 
 ### R1D19
 only one question solved
+
+### R1D20
+1 question solved:-{
