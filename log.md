@@ -53,3 +53,5 @@ Attempted codejam
 ### Day 19:{17/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Small%20factorials)
 
 ### Day 20:{18/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Second%20Largest)
+
+### Day 21:{19/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Turbo%20Sort)
