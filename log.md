@@ -55,3 +55,4 @@ Attempted codejam
 ### Day 20:{18/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Second%20Largest)
 
 ### Day 21:{19/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Turbo%20Sort)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/From%20heaven%20to%20earth)
