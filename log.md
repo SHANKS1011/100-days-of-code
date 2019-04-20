@@ -56,3 +56,6 @@ Attempted codejam
 
 ### Day 21:{19/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Turbo%20Sort)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/From%20heaven%20to%20earth)
+
+### Day 22:{20/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Find%20the%20Maximum%20Value)
+[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Life%2C%20the%20Universe%2C%20and%20Everything)
