@@ -68,3 +68,6 @@ only one question solved
 
 ### R1D21
 2 questions solved
+
+### R1D22
+2 questions solved
