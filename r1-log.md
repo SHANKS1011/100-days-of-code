@@ -74,3 +74,7 @@ only one question solved
 
 ### R1D23
 1 question solved
+
+### R1D24
+1 question solved(codechef)
+trying some new shit in java(@_@)
