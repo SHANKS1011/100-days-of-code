@@ -61,3 +61,5 @@ Attempted codejam
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Life%2C%20the%20Universe%2C%20and%20Everything)
 
 ### Day 23:{21/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Minimum%20Deletions)
+
+### Day 24:{22/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Find%20Remainder)
