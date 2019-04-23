@@ -78,3 +78,6 @@ only one question solved
 ### R1D24
 1 question solved(codechef)
 trying some new shit in java(@_@)
+
+### R1D25
+1 question solved
