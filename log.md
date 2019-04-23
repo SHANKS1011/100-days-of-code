@@ -63,3 +63,5 @@ Attempted codejam
 ### Day 23:{21/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Minimum%20Deletions)
 
 ### Day 24:{22/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Find%20Remainder)
+
+### Day 25:{23/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Enormous%20Input%20Test)
