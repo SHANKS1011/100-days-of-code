@@ -13,7 +13,7 @@
 ### Day 5:{3/04/2019}: [ my solution ](https://github.com/SHANKS1011/Codechef-solutions/blob/master/First%20and%20Last)
 
 ### Day 6:{4/04/2019}:[my solution](https://github.com/SHANKS1011/Codechef-solutions/blob/master/2%20nos)
-    [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Valid%20Triangle)
+[my solution](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Valid%20Triangle)
 
 ### Day 7:{5/04/2019}:[solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/servant)
 [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Reactangle)
@@ -65,3 +65,5 @@ Attempted codejam
 ### Day 24:{22/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Find%20Remainder)
 
 ### Day 25:{23/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Enormous%20Input%20Test)
+
+### Day 26:{24/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Finding%20Square%20Roots)
