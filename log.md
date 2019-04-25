@@ -67,3 +67,5 @@ Attempted codejam
 ### Day 25:{23/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Enormous%20Input%20Test)
 
 ### Day 26:{24/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Finding%20Square%20Roots)
+
+### Day 27:{25/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Total%20Expenses)
