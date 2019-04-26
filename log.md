@@ -69,3 +69,5 @@ Attempted codejam
 ### Day 26:{24/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Finding%20Square%20Roots)
 
 ### Day 27:{25/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Total%20Expenses)
+
+### Day 28:{26/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Small%20Factorial)
