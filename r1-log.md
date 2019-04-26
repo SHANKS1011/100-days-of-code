@@ -87,3 +87,6 @@ trying some new shit in java(@_@)
 
 ### R1D27
 1 question solved
+
+### R1D28
+1 question solved
