@@ -71,3 +71,5 @@ Attempted codejam
 ### Day 27:{25/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Total%20Expenses)
 
 ### Day 28:{26/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Small%20Factorial)
+
+### Day 20:{27/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Tanu%20and%20Head-bob)
