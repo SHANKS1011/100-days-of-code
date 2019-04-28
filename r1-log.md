@@ -90,3 +90,9 @@ trying some new shit in java(@_@)
 
 ### R1D28
 1 question solved
+
+### R1D29
+1 question solved
+
+### R1D30
+1 question solved
