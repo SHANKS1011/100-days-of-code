@@ -72,4 +72,6 @@ Attempted codejam
 
 ### Day 28:{26/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Small%20Factorial)
 
-### Day 20:{27/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Tanu%20and%20Head-bob)
+### Day 29:{27/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Tanu%20and%20Head-bob)
+
+### Day 30:{28/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Fruits)
