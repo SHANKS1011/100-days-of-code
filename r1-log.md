@@ -99,3 +99,6 @@ trying some new shit in java(@_@)
 
 ### R1D31
 1 question solved
+
+### R1D32
+1 question solved
