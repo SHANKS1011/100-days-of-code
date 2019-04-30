@@ -77,3 +77,5 @@ Attempted codejam
 ### Day 30:{28/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Fruits)
 
 ### Day 31:{29/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Judging%20Delay)
+
+### Day 32:{30/04/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Testing%20Robot%20Submission)
