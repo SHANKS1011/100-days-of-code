@@ -111,3 +111,6 @@ trying some new shit in java(@_@)
 
 ### R1D35
 1 question solved
+
+### R1D36
+1 question solved
