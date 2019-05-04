@@ -85,3 +85,5 @@ Attempted codejam
 ### Day 34:{2/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20And%20Operators)
 
 ### Day 35:{3/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Interactive%20Contests)
+
+### Day 36:{4/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Candy%20Love)
