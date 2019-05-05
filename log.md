@@ -87,3 +87,5 @@ Attempted codejam
 ### Day 35:{3/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Chef%20and%20Interactive%20Contests)
 
 ### Day 36:{4/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Candy%20Love)
+
+### Day 37:{5/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Puppy%20and%20Sum%20Submission)
