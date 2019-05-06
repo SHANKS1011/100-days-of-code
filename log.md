@@ -89,3 +89,5 @@ Attempted codejam
 ### Day 36:{4/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Candy%20Love)
 
 ### Day 37:{5/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Puppy%20and%20Sum%20Submission)
+
+### Day 38:{6/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Find%20Remainder)
