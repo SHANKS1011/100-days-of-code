@@ -117,3 +117,6 @@ trying some new shit in java(@_@)
 
 ### R1D37
 1 question solved & attempting code chef long(MAY)
+
+### R1D38
+1 question solved & attempting code chef long(MAY)
