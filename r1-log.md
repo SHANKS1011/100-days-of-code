@@ -125,4 +125,4 @@ trying some new shit in java(@_@)
 1 question solved & attempting code chef long(MAY)
 
 ### R1D40
-attempting code chef(MAY)
+attempting code chef long(MAY)
