@@ -93,3 +93,5 @@ Attempted codejam
 ### Day 38:{6/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Find%20Remainder)
 
 ### Day 39:{7/05/2019}: [solved](https://github.com/SHANKS1011/Codechef-solutions/blob/master/Making%20a%20Meal)
+
+### Day 40:{8/05/2019}: Attempting code chef LONG
