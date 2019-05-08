@@ -123,3 +123,6 @@ trying some new shit in java(@_@)
 
 ### R1D39
 1 question solved & attempting code chef long(MAY)
+
+### R1D40
+attempting code chef(MAY)
