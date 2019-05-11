@@ -132,3 +132,7 @@ attempting code chef long(MAY)
 
 ### R1D42
 attempting code chef long(MAY)
+
+### R1D43
+attempting code chef long(MAY)
+
