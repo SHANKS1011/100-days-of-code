@@ -99,3 +99,5 @@ Attempted codejam
 ### Day 41:{9/05/2019}: Attempting code chef LONG(MAY)
 
 ### Day 42:{10/05/2019}: Attempting code chef LONG(MAY)
+
+### Day 43:{11/05/2019}: Attempting code chef LONG(MAY)
