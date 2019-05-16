@@ -101,3 +101,13 @@ Attempted codejam
 ### Day 42:{10/05/2019}: Attempting code chef LONG(MAY)
 
 ### Day 43:{11/05/2019}: Attempting code chef LONG(MAY)
+
+### Day 45:{12/05/2019}: Attempting code chef LONG(MAY)
+
+### Day 46:{13/05/2019}: Attempting code chef LONG(MAY)
+
+### Day 47:{14/05/2019}: Attempting code chef LONG(MAY)
+
+### Day 48:{15/05/2019}: Attempting code chef LONG(MAY)
+
+### Day 49:{16/05/2019}: Attempting online coding competiton
