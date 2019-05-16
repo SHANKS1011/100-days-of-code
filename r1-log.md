@@ -136,3 +136,20 @@ attempting code chef long(MAY)
 ### R1D43
 attempting code chef long(MAY)
 
+### R1D44
+attempting code chef long(MAY)
+
+### R1D45
+attempting code chef long(MAY)
+
+### R1D46
+attempting code chef long(MAY)
+
+### R1D47
+attempting code chef long(MAY)
+
+### R1D48
+attempting code chef long(MAY)
+
+### R1D49
+attempted online coding competition
